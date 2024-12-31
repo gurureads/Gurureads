@@ -2,7 +2,7 @@
 - 👀 I’m interested in Latest Programming Languages
 - 🌱 I’m currently learning Phython AI
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me - Please email me at gurureads@gmail.com
+- 📫 How to reach me - Please email me at cryptozguru@gmail.com
 
 <!---
 Gurureads/Gurureads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
