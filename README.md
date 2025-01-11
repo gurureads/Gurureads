@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gurureads
 - 👀 I’m interested in Latest Programming Languages
-- 🌱 I’m currently learning Python AI
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - Please email me at gurureads@gmail.com
 
